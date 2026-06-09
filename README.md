@@ -1,3 +1,3 @@
 ## Hey there, :wave:
 
-Technical writing @ https://kaitlynparsons.vercel.app/
+Technical writing @ https://kaitlynjparsons.com
